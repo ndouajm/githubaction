@@ -6,16 +6,9 @@ function App() {
   return (
     <>
 
-      <div className="ticks"></div>
-
       <section id="next-steps">
-        <h2>hello worl
-
-        </h2>
+        <h2>hello world</h2>
       </section>
-
-      <div className="ticks"></div>
-      <section id="spacer"></section>
     </>
   )
 }
