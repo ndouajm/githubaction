@@ -13,7 +13,9 @@ function App() {
       <div className="ticks"></div>
 
       <section id="next-steps">
-        <h2>Next steps</h2>
+        <h2>hello worl
+          
+        </h2>
       </section>
 
       <div className="ticks"></div>
